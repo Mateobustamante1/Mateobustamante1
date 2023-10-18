@@ -1,3 +1,7 @@
+# Proyecto Nombre
+
+Breve descripción de tu proyecto.
+
 ## Sobre mí
 
 Soy un Desarrollador Web Full Stack con un enfoque principal en el Front-End, aunque también poseo habilidades sólidas en Node, Python y SQL. Mi experiencia se ha centrado en el desarrollo con React, utilizando metodologías como Redux para crear interfaces de usuario dinámicas y atractivas. Aunque mi enfoque principal está en el Front-End, tengo un conocimiento sustancial de Node para tareas de desarrollo más complejas, así como de Python y SQL para operaciones específicas de bases de datos y análisis de datos.
@@ -22,8 +26,7 @@ Mi objetivo es aplicar mi creatividad en el desarrollo de interfaces de usuario 
 
 Puedes contactarme a través de LinkedIn o por correo electrónico:
 
-[<img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png">]((https://www.linkedin.com/in/mateo-bustamante-bb3986222/))
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png">](https://www.linkedin.com/in/mateo-bustamante-bb3986222/)
 [<img src="https://img.icons8.com/ios-glyphs/30/000000/gmail.png">](mailto:mateojbustamante@gmail.com)
 
 ¡No dudes en contactarme si tienes alguna pregunta, sugerencia o propuesta de colaboración!
-
