@@ -1,6 +1,3 @@
-# Proyecto Nombre
-
-Breve descripción de tu proyecto.
 
 ## Sobre mí
 
@@ -19,6 +16,17 @@ Mi objetivo es aplicar mi creatividad en el desarrollo de interfaces de usuario 
 | HTML | CSS | JS | ReactJS | NodeJS | Python | SQL | Angular | AJAX |
 |---|---|---|---|---|---|---|---|---|
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50">](https://es.reactjs.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50">](https://nodejs.org/) | [<img src="https://www.python.org/static/img/python-logo.png" width="50">](https://www.python.org/) | [<img src="https://img.icons8.com/color/48/000000/sql.png" width="50">](https://www.microsoft.com/en-us/sql-server) | [<img src="https://cdn.iconscout.com/icon/free/png-256/angular-3-226070.png" width="50">](https://angular.io/) | [<img src="https://cdn.iconscout.com/icon/free/png-256/ajax-226594.png" width="50">](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started) |
+
+
+
+## Contacto
+
+Puedes contactarme a través de LinkedIn o por correo electrónico:
+
+[<img src="https://img.icons8.com/color/96/000000/linkedin.png">](https://www.linkedin.com/in/mateo-bustamante-bb3986222/)
+[<img src="https://img.icons8.com/color/96/000000/gmail.png">](mailto:mateojbustamante@gmail.com)
+
+¡No dudes en contactarme si tienes alguna pregunta, sugerencia o propuesta de colaboración!
 
 
 
