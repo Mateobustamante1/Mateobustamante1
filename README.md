@@ -18,7 +18,7 @@ Mi objetivo es aplicar mi creatividad en el desarrollo de interfaces de usuario 
 
 | HTML | CSS | JS | ReactJS | NodeJS | Python | SQL | Angular | AJAX |
 |---|---|---|---|---|---|---|---|---|
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50">](https://es.reactjs.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50">](https://nodejs.org/) | [<img src="https://www.python.org/static/img/python-logo.png" width="50">](https://www.python.org/) | [<img src="https://www.iconfinder.com/icons/356019" width="50">](https://www.microsoft.com/en-us/sql-server) | [<img src="https://cdn.iconscout.com/icon/free/png-256/angular-3-226070.png" width="50">](https://angular.io/) | [<img src="https://cdn.iconscout.com/icon/free/png-256/ajax-226594.png" width="50">](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started) |
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50">](https://es.reactjs.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50">](https://nodejs.org/) | [<img src="https://www.python.org/static/img/python-logo.png" width="50">](https://www.python.org/) | [<img src="https://img.icons8.com/color/48/000000/sql.png" width="50">](https://www.microsoft.com/en-us/sql-server) | [<img src="https://cdn.iconscout.com/icon/free/png-256/angular-3-226070.png" width="50">](https://angular.io/) | [<img src="https://cdn.iconscout.com/icon/free/png-256/ajax-226594.png" width="50">](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started) |
 
 ## Instalación
 
@@ -40,9 +40,8 @@ Indica la licencia bajo la cual se comparte este proyecto.
 
 Puedes contactarme a través de LinkedIn o por correo electrónico:
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" height="30">](https://www.linkedin.com/tu_perfil)
-[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="30" height="30">](mailto:tu_correo@gmail.com)
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png">](https://www.linkedin.com/tu_perfil)
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/gmail.png">](mailto:tu_correo@gmail.com)
 
 ¡No dudes en contactarme si tienes alguna pregunta, sugerencia o propuesta de colaboración!
 
-Incluye aquí cómo pueden contactarte en caso de preguntas o problemas relacionados con el proyecto.
