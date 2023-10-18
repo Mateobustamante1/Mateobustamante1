@@ -40,7 +40,10 @@ Indica la licencia bajo la cual se comparte este proyecto.
 
 Puedes contactarme a través de LinkedIn o por correo electrónico:
 
-[![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/tu_perfil)
-[![Gmail](https://img.icons8.com/color/96/000000/gmail.png)](mailto:tu_correo@gmail.com)
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png">](https://www.linkedin.com/tu_perfil)
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/gmail.png">](mailto:tu_correo@gmail.com)
+
+¡No dudes en contactarme si tienes alguna pregunta, sugerencia o propuesta de colaboración!
+ns8.com/color/96/000000/gmail.png)](mailto:tu_correo@gmail.com)
 
 ¡No dudes en contactarme si tienes alguna pregunta, sugerencia o propuesta de colaboración!
