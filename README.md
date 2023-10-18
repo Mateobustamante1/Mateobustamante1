@@ -30,11 +30,3 @@ Puedes contactarme a través de LinkedIn o por correo electrónico:
 
 
 
-## Contacto
-
-Puedes contactarme a través de LinkedIn o por correo electrónico:
-
-[<img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png">](https://www.linkedin.com/in/mateo-bustamante-bb3986222/)
-[<img src="https://img.icons8.com/ios-glyphs/30/000000/gmail.png">](mailto:mateojbustamante@gmail.com)
-
-¡No dudes en contactarme si tienes alguna pregunta, sugerencia o propuesta de colaboración!
