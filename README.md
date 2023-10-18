@@ -16,9 +16,9 @@ Mi objetivo es aplicar mi creatividad en el desarrollo de interfaces de usuario 
 
 ## Tecnologías Utilizadas
 
-| HTML | CSS | JS | ReactJS | NodeJS | Python | SQL | AJAX |
-|---|---|---|---|---|---|---|---|
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50">](https://es.reactjs.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50">](https://nodejs.org/) | [<img src="https://www.python.org/static/img/python-logo.png" width="50">](https://www.python.org/) | [<img src="https://download.logo.wine/logo/SQL/SQL-Logo.wine.png" width="50">](https://www.microsoft.com/en-us/sql-server) | [<img src="https://cdn.iconscout.com/icon/free/png-256/ajax-226594.png" width="50">](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started) |
+| HTML | CSS | JS | ReactJS | NodeJS | Python | SQL | Angular | AJAX |
+|---|---|---|---|---|---|---|---|---|
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50">](https://es.reactjs.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50">](https://nodejs.org/) | [<img src="https://www.python.org/static/img/python-logo.png" width="50">](https://www.python.org/) | [<img src="https://download.logo.wine/logo/SQL/SQL-Logo.wine.png" width="50">](https://www.microsoft.com/en-us/sql-server) | [<img src="https://cdn.iconscout.com/icon/free/png-256/angular-3-226070.png" width="50">](https://angular.io/) | [<img src="https://cdn.iconscout.com/icon/free/png-256/ajax-226594.png" width="50">](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started) |
 
 ## Instalación
 
@@ -37,5 +37,13 @@ Si deseas contribuir a este proyecto y mejorar o añadir nuevas características
 Indica la licencia bajo la cual se comparte este proyecto.
 
 ## Contacto
+
+Puedes contactarme a través de LinkedIn o por correo electrónico:
+
+[<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30" height="30">](https://www.linkedin.com/tu_perfil)
+[<img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30" height="30">](mailto:tu_correo@gmail.com)
+
+¡No dudes en contactarme si tienes alguna pregunta, sugerencia o propuesta de colaboración!
+
 
 Incluye aquí cómo pueden contactarte en caso de preguntas o problemas relacionados con el proyecto.
